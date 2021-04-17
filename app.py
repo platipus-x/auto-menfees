@@ -7,6 +7,7 @@ from time import sleep
 
 # if you want to run multiple account, create a copy of config.py. example: config2.py , etc.
 # then follow these ## template...
+# deploy
 
 ## import config2
 
